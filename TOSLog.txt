@@ -1,0 +1,11 @@
+V1.0: Inital Release
+---------------------------------------------
+
+V1.1 
+- Added Homer - Krusty Outfit
+- Fixed Product Placement's RESET_TO_HERE(); function.
+
+V1.2
+- Revamped M1: D'oh it for your Son!
+- Changed the default car to a pink roofed sedan
+- Re-did dialog

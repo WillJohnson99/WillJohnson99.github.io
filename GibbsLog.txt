@@ -1,0 +1,9 @@
+Changelog
+
+v1.0.2
+- Fixed a small error I made in the Meta.ini file that caused the mod to have problems with decompiling. Credit goes to forum user SomeoneIKnow and Developer
+Jake Andreoli (Aerhx) for pointing this out!
+
+v1.0.1
+- Hello! Right now, you have the first edition (v1.0.1) of the Jimmy Gibbs Jr. mod, meaning that changes made later to it will be released in future updates, 
+and said changes will be noted inside of this changelog. If you want to see what the mod has to offer, read the readme.txt file located inside this .zip.
